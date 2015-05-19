@@ -46765,7 +46765,7 @@ tube8.com##topadblock
 @@||terra.com.br^*/admanager.html$subdocument
 @@||tn.com.ar^*/vivo/300/publicidad.html$subdocument
 @@||trrsf.com.br/playerttv/$xmlhttprequest
-@@||trrsf.com.br^*/admanager.js$domain=terra.com.br
+!@@||trrsf.com.br^*/admanager.js$domain=terra.com.br
 @@||trrsf.com^*/admanager.js
 @@||tugaleaks.com^*/wp-super-popup-pro/sppro.js
 @@||tugaleaks.com^*/wp-super-popup-pro/sppro.php
